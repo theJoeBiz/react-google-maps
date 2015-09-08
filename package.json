@@ -80,7 +80,8 @@
   },
   "dependencies": {
     "google-maps-infobox": "^1.1.13",
-    "invariant": "^2.1.1"
+    "invariant": "^2.1.1",
+    "react-async-script": "^0.4.0"
   },
   "peerDependencies": {
     "react": "^0.14.0",
