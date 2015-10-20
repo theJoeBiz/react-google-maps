@@ -95,7 +95,7 @@ export default class GoogleMap extends Component {
   }
 
   componentWillUnmount () {
-    this.props.onDestroyed(map);
+    this.props.onDestroyed(this.state.map);
   }
 
   render () {
