@@ -76,7 +76,7 @@ export default class GoogleMap extends Component {
     containerTagName: "div",
     containerProps: {},
     onCreated: () => {},
-    onDestroyed: () => {}
+    onDestroyed: () => {},
   }
 
   state = {
